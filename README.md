@@ -1,2 +1,2 @@
 # hello-world
-Setting the account up
+Hello there! Trying to become a full-stack developer.
